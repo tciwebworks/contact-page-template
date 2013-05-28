@@ -1,0 +1,43 @@
+body {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+#map {
+	width:100%;
+	height:200px;
+	display:block;
+}
+.page-header, .navbar-inner {
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+	background: #CC333F;
+}
+body {
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+}
+
+.input, .btn {
+	
+	background: #CC333F;
+}
+
+* {
+	font-family: 'Noto Sans', sans-serif !important;
+	box-shadow: none !important;
+	-moz-border-radius: 1px !important;
+	-webkit-border-radius: 1px !important;
+	border-radius: 1px !important;
+	text-shadow: none !important;
+}
+
+.nav li a, .brand, h1 {
+	color: #FFF !important;
+}
+
+.page-header {
+	margin-top: -10px;
+	padding-top: 30px;
+}
